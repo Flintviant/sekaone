@@ -1,8 +1,8 @@
 <?php
 define('DB_SERVER','localhost');
-define('DB_USER','u1575043_sekawan');
+define('DB_USER','u752324154_sekaone');
 define('DB_PASS' ,'1234Harusdigunakan!');
-define('DB_NAME','u1575043_newsportal');
+define('DB_NAME','u752324154_sekaone');
 $con = mysqli_connect(DB_SERVER,DB_USER,DB_PASS,DB_NAME);
 
 $defaulturl  = "https://multisekawan.com/";
