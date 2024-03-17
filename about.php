@@ -128,7 +128,7 @@
 
 					<!-- Start Column 1 -->
 					<div class="col-12 col-md-6 col-lg-6 mb-5 mb-md-0">
-						<img src="assets/panji-1.png" style="width:50%;" class="img-fluid mb-5">
+						<img src="assets/PANJI-1.png" style="width:50%;" class="img-fluid mb-5">
 						<h3 clas><a href="www/instagram.com/Panjibhskr" target="blank__"><span class="">A. Panji</span> Bhaskoro</a></h3>
 			            <span class="d-block position mb-4">Commissioner, Founder.</span>
 			            <p>
@@ -140,7 +140,7 @@
 
 					<!-- Start Column 2 -->
 					<div class="col-12 col-md-6 col-lg-6 mb-5 mb-md-0">
-						<img src="assets/dion-1.png" style="width:50%;" class="img-fluid mb-5">
+						<img src="assets/DION-1.png" style="width:50%;" class="img-fluid mb-5">
 
 						<h3 clas><a href="www/instagram.com/dion_arfian14" target="blank__"><span class="">M. Arfian</span> Nugroho</a></h3>
 			            <span class="d-block position mb-4">Director, Founder.</span>
