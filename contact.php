@@ -50,9 +50,7 @@
                       </svg>
                     </div> <!-- /.icon -->
                     <div class="service-contents">
-                      <h6>marketing1@multisekawan.com</h6>
-                      <h6>marketing2@multisekawan.com</h6>
-                      <h6>marketing3@multisekawan.com</h6>
+                      <h6>gabril@multisekawan.com</h6>
                     </div> <!-- /.service-contents-->
                   </div> <!-- /.service -->
                 </div>
@@ -66,7 +64,7 @@
                     >
                         <span class="h4">
                             <i class="fa-brands fa-whatsapp"></i>
-                            Contact US
+                            CONTACT US
                         </span>
                     </a>
                 </div>

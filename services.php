@@ -32,7 +32,7 @@
 
 				<div class="row mb-5">
 					<div class="col-12 col-md-6 col-lg-6 mb-md-0">
-						<img src="assets/produk/open.png" title="dion ganteng" style="width: 70%;">
+						<img src="assets/produk/open.png" title="rattan" style="width: 70%;">
 					</div>
 					<div class="col-12 col-md-6 col-lg-6 mb-md-0 text-left">
 						<h3 class="section-title mb-3" style="color: seagreen;">Open Hexagonal Rattan Webbing</h3>
@@ -60,7 +60,7 @@
 						</h6>
 					</div>
 					<div class="col-12 col-md-6 col-lg-6 mb-md-0">
-						<img src="assets/produk/square.png" title="dion ganteng" style="width: 80%;">
+						<img src="assets/produk/square.png" title="rattan webbing" style="width: 80%;">
 					</div>
 				</div>
 
@@ -68,7 +68,7 @@
 
 				<div class="row mb-5">
 					<div class="col-12 col-md-6 col-lg-6 mb-md-0">
-						<img src="assets/produk/close.png" title="dion ganteng" style="width: 80%;">
+						<img src="assets/produk/close.png" title="rattan webbing" style="width: 80%;">
 					</div>
 					<div class="col-12 col-md-6 col-lg-6 mb-md-0 text-left">
 						<h3 class="section-title mb-3" style="color:seagreen;">Close Rattan Webbing</h3>
@@ -96,7 +96,7 @@
 						</h6>
 					</div>
 					<div class="col-12 col-md-6 col-lg-6 mb-md-0">
-						<img src="assets/produk/flower.png" title="dion ganteng" style="width: 80%;">
+						<img src="assets/produk/flower.png" title="rattan webbing" style="width: 80%;">
 					</div>
 				</div>
 
@@ -104,7 +104,7 @@
 
 				<div class="row mb-5">
 					<div class="col-12 col-md-6 col-lg-6 mb-md-0">
-						<img src="assets/produk/mita4.png" title="dion ganteng" style="width: 80%;">
+						<img src="assets/produk/mita4.png" title="rattan webbing" style="width: 80%;">
 					</div>
 					<div class="col-12 col-md-6 col-lg-6 mb-md-0 text-left">
 						<h4 class="section-title mb-3" style="color:seagreen;">Close Mita 4 Rows</h4>
@@ -132,7 +132,7 @@
 						</h6>
 					</div>
 					<div class="col-12 col-md-6 col-lg-6 mb-md-0">
-						<img src="assets/produk/focrat.png" title="dion ganteng" style="width: 80%;">
+						<img src="assets/produk/focrat.png" title="rattan webbing" style="width: 80%;">
 					</div>
 				</div>
 
@@ -140,7 +140,7 @@
 
 				<div class="row mb-5">
 					<div class="col-12 col-md-6 col-lg-6 mb-md-0">
-						<img src="assets/produk/closexitarat.png" title="dion ganteng" style="width: 80%;">
+						<img src="assets/produk/closexitarat.png" title="rattan webbing" style="width: 80%;">
 					</div>
 					<div class="col-12 col-md-6 col-lg-6 mb-md-0 text-left">
 						<h4 class="section-title mb-3" style="color:seagreen;">Close Xita</h4>

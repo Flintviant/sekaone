@@ -18,76 +18,194 @@
 
 		<?php include 'hero.php'; ?>
 
-		<div class="untree_co-section container">
-        	<div class="row">
-                <div class="col-12 col-md-6 col-lg-6 mb-5 mb-md-0">
-                	<h2 style="color: seagreen;">About Us</h2>
-                    <h5 class="mb-4">
-                        PT Multi Sekawan Internasional is an international scale trading company that conducts business activities by selling various kinds of Rattan products such as Rattan Webbing, Handicrafts, Home Decor etc.
-                    </h5>
-                    <a href="about.php" type="button" class="btn btn-custom" style="width:100%;background-color: seagreen;">Explore</a>
-                </div>
-                <div class="col-12 col-md-6 col-lg-6 mb-md-0">
-                    <img src="assets/sekaone.jpg"  class="img-fluid">
-                </div>
-            </div>
-	    </div>
-	    
-	    <div class="container-fluid text-center">
+		<div class="container-fluid mt-3 mb-5">
+		  <h2 style="color: #826f5f;">RATTAN CANE WEBBING</h2>
+		   <section class="customer-logos slider">
+		      <div class="slide">
+		      	<img src="images/openrattan.png" alt="openrattan">
+		      	<p class="desc-slide">Open Hexagonal Rattan Webbing</p>
+		      </div>
+		      <div class="slide">
+		      	<img src="images/squarerattan.png" alt="squarerattan">
+		      	<p class="desc-slide">Square Rattan Webbing</p>
+		      </div>
+		      <div class="slide">
+		      	<img src="images/closerattan.png" alt="closerattan">
+		      	<p class="desc-slide">Close Rattan Webbing</p>
+		      </div>
+		      <div class="slide">
+		      	<img src="images/closexita.png" alt="closexita">
+		      	<p class="desc-slide">Close Xita Rattan Webbing</p>
+		      </div>
+		      <div class="slide">
+		      	<img src="images/flower.png" alt="flower">
+		      	<p class="desc-slide">Flower Rattan Webbing</p>
+		      </div>
+		      <div class="slide">
+		      	<img src="images/focrat.png" alt="focrat">
+		      	<p class="desc-slide">FOC (Flat Oval Core)</p>
+		      </div>
+		      <div class="slide">
+		      	<img src="images/mita4row.png" alt="mita4row">
+		      	<p class="desc-slide">Close Mita 4 Rows</p>
+		      </div>
+		   </section>
+		</div>
+
+		<div class="container-fluid text-center">
 	    	<img src="assets/gambardipagehome.jpg" style="max-width:100%;" alt="gambar rotan banyak">
 	    </div>
-	    
 
-		<div class="container-fluid mt-3">
-		  <h2 style="color: seagreen;">Products</h2>
-		   <section class="customer-logos slider">
-		      <div class="slide"><img src="images/openrattan.png" alt="openrattan"></div>
-		      <div class="slide"><img src="images/squarerattan.png" alt="squarerattan"></div>
-		      <div class="slide"><img src="images/closerattan.png" alt="closerattan"></div>
-		      <div class="slide"><img src="images/closexita.png" alt="closexita"></div>
-		      <div class="slide"><img src="images/flower.png" alt="flower"></div>
-		      <div class="slide"><img src="images/focrat.png" alt="focrat"></div>
-		      <div class="slide"><img src="images/mita4row.png" alt="mita4row"></div>
-		   </section>
+		<!-- Start We Help Section -->
+		<div class="we-help-section container-fluid">
+			<div class="row justify-content-between">
+				<div class="container-fluid col-lg-12 col-md-10 col-sm-12 mb-5 mb-lg-0" style="padding-left: 100px;padding-right: 100px;">
+					<div class="imgs-grid">
+						<div class="grid grid-1 col-lg-9" style="background-color: lightgray;border-radius: 3%;">
+							<h2 class="section-title mt-4" style="color: #826f5f; text-align: left;">
+								RATTAN LAMP SHADES
+							</h2>
+							<p style="padding-left: 20px; padding-right: 20px; margin-top: -3%;">
+								Rattan lampshades make them a popular choice for a variety of
+								furniture and decorations. It comes in a variety of shapes, sizes and
+								styles, making it versatile enough to complement a variety of interior
+								design themes, from bohemian and tropical to modern and minimalist.
+								Can custom design according to request.
+							</p>
+
+							<p style="padding-left: 20px;"><a href="https://wa.me/6281292314213?text=Hello! we want to know about ..." class="btn btn-custom" style="background-color:#7a7a7a;" target="blank__">More Info</a></p>
+						</div>
+						<div class="grid grid-3"><img src="assets/rattanlampshade.jpg" alt="Untree.co"></div>
+						<!-- <div class="grid grid-3"><img src="assets/rattanlampshade.jpg" alt="Untree.co"></div> -->
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- End We Help Section -->
+
+		<div class="container-fluid">
+			<div class="row">
+				<div class="container-fluid">
+					<div class="row justify-content-center">
+					    <div class="col-md-3 mb-3">
+				    		<div class="card mb" style="background-color: lightgrey;">
+				              <img class="card-img-top" src="assets/basket.jpg" alt="Card image cap">
+				              <div class="card-body mb">
+				                <h5 class="card-title">BASKET</h5>
+				                <a type="button">View Product</a>
+				              </div>
+				            </div>
+				        </div>
+				        <div class="col-md-3 mb-3">
+				    		<div class="card mb" style="background-color: lightgrey;">
+				              <img class="card-img-top" src="assets/placemate.jpg" alt="Card image cap">
+				              <div class="card-body mb">
+				                <h5 class="card-title">PLACEMATE</h5>
+				                <a type="button">View Product</a>
+				              </div>
+				            </div>
+				        </div>
+				        <div class="col-md-3">
+				    		<div class="card mb" style="background-color: lightgrey;">
+				              <img class="card-img-top" src="assets/mirror.jpg" alt="Card image cap">
+				              <div class="card-body mb">
+				                <h5 class="card-title">MIRROR</h5>
+				                <a type="button">View Product</a>
+				              </div>
+				            </div>
+				        </div>
+					</div>
+				</div>
+			</div>
 		</div>
 
 		<!-- Start We Help Section -->
 		<div class="we-help-section container-fluid">
-				<div class="row justify-content-between">
-					<div class="col-lg-7 mb-5 mb-lg-0">
-						<div class="imgs-grid">
-							<div class="grid grid-1"><img src="assets/wehelp1.jpg" alt="Untree.co"></div>
-							<div class="grid grid-2"><img src="assets/wehelp2.jpg" alt="Untree.co"></div>
-							<div class="grid grid-3"><img src="assets/wehelp3.jpg" alt="Untree.co"></div>
+			<div class="row justify-content-between">
+				<div class="container-fluid col-lg-12 col-md-10 col-sm-12 mb-5 mb-lg-0">
+					<div class="imgs-grid">
+						<div class="container-fluid grid grid-1 col-lg-9">
+							<img src="assets/rattanfurniture.jpg" alt="rattan">
+						</div>
+						<div class="container-fluid grid grid-3 col-lg-10" style="background-color: lightgray;border-radius: 3%;">
+							<h2 class="section-title" style="color: #826f5f; text-align: left;">
+								RATTAN FURNITURE
+							</h2>
+							<p style="padding-left: 20px; padding-right: 20px; margin-top: -3%;">
+								Rattan furniture is made from rattan trees due to its strength, durability and flexibility. It has a warm and inviting appearance, lending a touch of tropical charm to any room and making it a timeless choice for interior and exterior decoration.
+								Can custom design according to request
+							</p>
+
+							<p style="padding-left: 20px;">
+								<a href="https://wa.me/6281292314213?text=Hello! we want to know about ..." class="btn btn-custom" style="background-color:#826f5f;" target="blank__">More Info
+								</a>
+							</p>
 						</div>
 					</div>
-					<div class="col-lg-5 ps-lg-5">
-						<h2 class="section-title mb-4" style="color: seagreen;">Advantages Of Rattan Webbing</h2>
-						<p>
-							Rattan webbing is a type of material made from the woven strands of the rattan plant. Here are some advantages of rattan webbing :
-						</p>
-
-						<ul class="list-unstyled custom-list my-4">
-							<li>Strong and Durable</li>
-							<li>Lightweight</li>
-							<li>Water Resistant</li>
-							<li>Easy to Form</li>
-							<li>Eco-Friendly</li>
-							<li>Aesthetics</li>
-						</ul>
-						<p><a href="services.php" class="btn btn-custom" style="background-color:seagreen;" target="blank__">Explore</a></p>
-					</div>
 				</div>
+			</div>
 		</div>
 		<!-- End We Help Section -->
+
+		<!-- <div class="inner-cover container">
+	        <h1 class="cover-heading">Full screen background cover page.</h1>
+
+	        <p class="lead">
+	        	Cover is a one-page template for building simple and
+	        beautiful home pages. Download, edit the text, and add your own
+	        fullscreen background color and photo to make it your own. 
+	        </p>
+
+	        <p class="lead"><a class="btn btn-lg btn-info" href="#">Learn
+	        more</a></p>
+	    </div> -->
+
+	    <div class="row mb-1">
+			<div class="brown-bg text-center fw-bold mb-3">
+				<h2 class="mb-5 mt-5" style="color: #826f5f;">WHY CHOOSE US?</h2>
+
+				<div class="row col-12 justify-content-center mb-5">
+					<div class="col-4" style="text-align: justify;">
+						<h5 class="choose-title">Quality</h5>
+						<p class="choose-desc mb-5">
+							Having a Quality Control team in each production
+							line, to ensure that the quality of the products we
+							sell is always consistent with our standards
+						</p>
+
+						<h5 class="choose-title">Management Team</h5>
+						<p class="choose-desc">
+							Having an expert and professional management team
+							to provide the best service to all of our customers
+						</p>
+					</div>
+
+					<div class="col-4" style="text-align: justify;">
+						<h5 class="choose-title">Competitive</h5>
+						<p class="choose-desc mb-4">
+							Ensuring that the prices we offer can compete in the
+							global market, so we can provide the best prices for
+							each of our customers, especially B2B (Business to
+							Business) scale companies
+						</p>
+
+						<h5 class="choose-title">Custom Order</h5>
+						<p class="choose-desc">
+							Receive special orders from customers who have
+							different designs from the products we sell
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
 
 		<div class="we-help-section container-fluid">
 				<div class="row justify-content-between">
 					<div class="col-lg-4 ps-lg-5">
-						<h3 class="section-title mb-4" style="color: seagreen; text-align: left;">News & Article</h3>
-						<h5 style="text-align: left;">
+						<h3 class="section-title" style="color: #826f5f; text-align: left;">NEWS & ARTICLE</h3>
+						<p style="text-align: left;">
 							Follow and read our articles to find out about rattan cane webbing and others.
-						</h5>
+						</p>
 					</div>
 					<div class="row col-lg-8 mb-5 mb-lg-0">
 						<?php foreach ($blog as $blog) { ?>
@@ -97,10 +215,10 @@
 										<a href="">
 											<img src="<?=$defaulturl?>newsportal/admin/postimages/<?=$blog['PostImage']?>" style="width:100%;">
 										</a>
-										<ul class="list-inline mt-3">
+										<!-- <ul class="list-inline mt-3">
 					                        <li class="list-inline-item"><i class="fas fa-user"></i> <?=$blog['postedBy']?></li>
 					                        <li class="list-inline-item"><i class="far fa-clock"></i> <?=$blog['PostingDate']?></li>
-					                    </ul>
+					                    </ul> -->
 					                    <hr>
 					                    <p class="lead"><?=$blog['PostTitle']?></p>
 					                    <a class="btn btn-outline-dark my-2" href="<?=$defaulturl?>newsportal/news-details.php?nid=<?=$blog['id']?>" role="button">Read more...</a>
@@ -113,7 +231,7 @@
 		</div>
 
 		<div class="we-help-section container-fluid" style="background-color: #EEF3EF"> 			
-			<h3 class="text-center mb-5" style="color: seagreen;">Galeri</h3>
+			<h3 class="text-center mb-5" style="color: #826f5f; letter-spacing: 10px;">GALLERY</h3>
 			<div class="row">
 	            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
 	                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
@@ -126,20 +244,20 @@
 	            </div>
 	            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
 	                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
-	                   data-image="assets/galeri/galeri2.jpg"
+	                   data-image="assets/galeri/14.jpg"
 	                   data-target="#image-gallery">
 	                    <img class="img-thumbnail"
-	                         src="assets/galeri/galeri2.jpg"
+	                         src="assets/galeri/14.jpg"
 	                         alt="Another alt text">
 	                </a>
 	            </div>
 
 	            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
 	                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
-	                   data-image="assets/galeri/galeri3.jpg"
+	                   data-image="assets/galeri/galeri2.jpg"
 	                   data-target="#image-gallery">
 	                    <img class="img-thumbnail"
-	                         src="assets/galeri/galeri3.jpg"
+	                         src="assets/galeri/galeri2.jpg"
 	                         alt="Another alt text">
 	                </a>
 	            </div>
@@ -164,28 +282,28 @@
 
 	            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
 	                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
-	                   data-image="assets/galeri/galeri6.jpg"
+	                   data-image="assets/galeri/11.jpg"
 	                   data-target="#image-gallery">
 	                    <img class="img-thumbnail"
-	                         src="assets/galeri/galeri6.jpg"
+	                         src="assets/galeri/11.jpg"
 	                         alt="Another alt text">
 	                </a>
 	            </div>
 	            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
 	                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
-	                   data-image="assets/galeri/galeri7.jpg"
+	                   data-image="assets/galeri/12.jpg"
 	                   data-target="#image-gallery">
 	                    <img class="img-thumbnail"
-	                         src="assets/galeri/galeri7.jpg"
+	                         src="assets/galeri/12.jpg"
 	                         alt="Another alt text">
 	                </a>
 	            </div>
 	            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
 	                <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
-	                   data-image="assets/galeri/galeri8.jpg"
+	                   data-image="assets/galeri/galeri15.jpg"
 	                   data-target="#image-gallery">
 	                    <img class="img-thumbnail"
-	                         src="assets/galeri/galeri8.jpg"
+	                         src="assets/galeri/galeri15.jpg"
 	                         alt="Another alt text">
 	                </a>
 	            </div>

@@ -98,6 +98,13 @@
 				</div>
 
 			</div>
+
+			<div id="whatsapp-logo">
+			    <a href="https://wa.me/6281292314213?" target="_blank">
+			        <span class="fa fa-brands fa-whatsapp fa-4x" style="color: green;"></span>
+			    </a>
+			</div>
+
 		</footer>
 		<!-- End Footer Section -->
 

@@ -3,11 +3,11 @@
 	<div id="carousel-na" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner parent-container-img">
             <div class="carousel-item active">
-                    <div class="slide" style="background-image: url('assets/slide1.jpg');">
+                    <div class="slide" style="background-image: url('assets/coverrev3.jpg');">
                     </div>
             </div>
             <div class="carousel-item">
-                    <div class="slide" style="background-image: url('assets/cover2.jpg');">
+                    <div class="slide" style="background-image: url('assets/coverrev4.jpg');">
                     </div>
             </div>
         </div>
