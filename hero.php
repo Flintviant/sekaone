@@ -1,6 +1,6 @@
 
 <div>	
-	<div id="carousel-na" class="container-fluid carousel slide" data-bs-ride="carousel">
+	<div id="carousel-na" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner parent-container-img">
             <div class="carousel-item active">
                     <div class="slide" style="background-image: url('assets/coverrev3.jpg');">
